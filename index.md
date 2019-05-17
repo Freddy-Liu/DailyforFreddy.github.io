@@ -13,22 +13,22 @@
 
 
 ### Working Experience  
-#### China Construction Bank (June 2017-August 2017)  
-**Credit Department Intern**  
-**Job Description**  
+##### China Construction Bank (June 2017-August 2017)  
+##### **Credit Department Intern**  
+##### **Job Description**  
 1. Reviewed customer’s loan applications and real estate mortgages by checking and following CCB’s policies  
 2. Practiced China’s national loan policies and relevant legal provisions of mortgage loans and overdue repayment through evaluating corresponding businesses  
 
-#### Huatai Securities (Jan 2017-Mar 2017)  
-**Customer Manager Intern**  
-**Job Description**  
+##### Huatai Securities (Jan 2017-Mar 2017)  
+##### **Customer Manager Intern**  
+##### **Job Description**  
 1. Received customers, provided consultation service for them, collated and filed relevant documents  
 2. Accompanied seniors to visit customers, communicated with them and recommended appropriate products for them  
 
 
-#### China Pacific Insurance (Group) Co., Ltd (June 2016-August 2016)  
-**Motor Insurance Claims Department Intern**  
-**Job Description**  
+##### China Pacific Insurance (Group) Co., Ltd (June 2016-August 2016)  
+##### **Motor Insurance Claims Department Intern**  
+##### **Job Description**  
 1. Familiarized with insurance terms, responsibilities and products, attended training lecturers periodically  
 2. Searched potential customers, recommended relevant insurance products to them, signed the insurance contract and maintained customer relationship  
 
