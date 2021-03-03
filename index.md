@@ -16,17 +16,17 @@
 #### Fortune Infinity Group (Nov 2020 – Present)  
 ##### **Business Analyst Associate**  
 ##### **Job Description**  
-1. Utilized PowerBI, Tableau and, Excel to build up dashboards and generate data reports for marketing decisions.
+1. Utilized **PowerBI, Tableau and, Excel** to build up dashboards and generate data reports for marketing decisions.
 2. Conducted market segmentation analysis, providing ideas about business enhancement and customer acquisition.
 3. Applied independent models and tools to test the data transformation logic against the legacy systm to verify
 results of the analytical system.
-4. Resolved business issues by visualizing data in Tableau after performing ETL operations in SQL Server.
+4. Resolved business issues by visualizing data in Tableau after performing **ETL operations in SQL Server**.
 
 #### Fordham University (May 2020 - Oct 2020)  
 ##### **Research Assistant**  
 ##### **Job Description**  
-1. Collected data from Statistic Netherlands and performed data ETL and predictive analysis using SQL.
-2. Performed linear regression model to analyze the relationship between job search periods and welfare system.
+1. Collected data from Statistic Netherlands and performed data ETL and **predictive analysis** using SQL.
+2. Performed **linear regression model** to analyze the relationship between job search periods and welfare system.
 3. Developed an machine learning method which allows validation data to select its most proper training set.
 
 #### AXA Advisors (Dec 2019 - Mar 2020)  
@@ -46,9 +46,9 @@ libraries including Pandas, NumPy and Scikit-Learn, achieved overall 92% accurac
 
 #### Multidimensional Measure of International Poverty Using Fordham Francis Index (Sep 2019 - Dec 2019)  
 + dentified the relationship between employment indicator and the sustainable development goals by calculating
-and analyzing the correlation with Weka
-+ Implemented linear regression model on the GDP with the Fordham Francis Index and the Human Development
-Index in Tableau to analyze the economic condition of each country on the regression figure
+and analyzing the correlation with **Weka**
++ Implemented **linear regression model** on the GDP with the Fordham Francis Index and the Human Development
+Index in **Tableau** to analyze the economic condition of each country on the regression figure
 
 ### Skills and  Languages  
 + **Technical Skills**: SQL, Python(sklearn, numpy, pandas, matplotlib), R, Tableau, SPSS, Excel
