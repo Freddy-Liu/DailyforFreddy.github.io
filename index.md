@@ -4,6 +4,8 @@
 + Mobile: (917)-826-4600
 + Email: ronghanliufreddy@gmail.com  
 
+***
+
 
 ### Personal Information  
 + Freddy(Ronghan) Liu
@@ -11,6 +13,7 @@
 + Graduate School of Arts and Science, Fordham University  Master of Arts in Economics(STEM-Designated) 2018-2020
 + Github: https://github.com/Freddy-Liu  
 
+***
 
 ### Working Experience  
 #### Fortune Infinity Group (Nov 2020 – Present)  
@@ -36,7 +39,7 @@ results of the analytical system.
 + Performed data ETL and predictive analysis using SQL queries and Excel based pivot tables
 + Presented investment and financial planning seminars to clients and prospective clients
 
-
+***
 
 ### Research Project  
 #### Census Income Prediction with Machine Learning  (Dec 2018 – Mar 2019)
@@ -49,6 +52,8 @@ libraries including Pandas, NumPy and Scikit-Learn, achieved overall 92% accurac
 and analyzing the correlation with **Weka**
 + Implemented **linear regression model** on the GDP with the Fordham Francis Index and the Human Development
 Index in **Tableau** to analyze the economic condition of each country on the regression figure
+
+***
 
 ### Skills and  Languages  
 + **Technical Skills**: SQL, Python(sklearn, numpy, pandas, matplotlib), R, Tableau, SPSS, Excel
