@@ -16,25 +16,19 @@
 ***
 
 ### Working Experience  
-#### Fortune Infinity Group (Nov 2020 – Present)  
-##### *Business Analyst Associate* 
-##### **Job Description**  
+#### Fortune Infinity Group, *Business Analyst Associate* (Nov 2020 – Present)  
 + Utilized **PowerBI, Tableau and, Excel** to build up dashboards and generate data reports for marketing decisions.
 + Conducted market segmentation analysis, providing ideas about business enhancement and customer acquisition.
 + Applied independent models and tools to test the data transformation logic against the legacy systm to verify
 results of the analytical system.
 + Resolved business issues by visualizing data in Tableau after performing **ETL operations in SQL Server**.
 
-#### Fordham University (May 2020 - Oct 2020)  
-##### *Research Assistant*  
-##### **Job Description**  
+#### Fordham University, *Research Assistant* (May 2020 - Oct 2020)  
 + Collected data from Statistic Netherlands and performed data ETL and **predictive analysis** using SQL.
 + Performed **linear regression model** to analyze the relationship between job search periods and welfare system.
 + Developed an machine learning method which allows validation data to select its most proper training set.
 
-#### AXA Advisors (Dec 2019 - Mar 2020)  
-##### *Financial Analyst Intern* 
-##### **Job Description**  
+#### AXA Advisors,*Financial Analyst Intern* (Dec 2019 - Mar 2020)  
 + Conducted visualized impact of interest rate scenarios and changes to portfolio assumptions
 + Performed data ETL and predictive analysis using SQL queries and Excel based pivot tables
 + Presented investment and financial planning seminars to clients and prospective clients
