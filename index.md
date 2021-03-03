@@ -14,27 +14,27 @@
 
 ### Working Experience  
 #### Fortune Infinity Group (Nov 2020 – Present)  
-##### **Business Analyst Associate**  
+##### *Business Analyst Associate* 
 ##### **Job Description**  
-1. Utilized **PowerBI, Tableau and, Excel** to build up dashboards and generate data reports for marketing decisions.
-2. Conducted market segmentation analysis, providing ideas about business enhancement and customer acquisition.
-3. Applied independent models and tools to test the data transformation logic against the legacy systm to verify
++ Utilized **PowerBI, Tableau and, Excel** to build up dashboards and generate data reports for marketing decisions.
++ Conducted market segmentation analysis, providing ideas about business enhancement and customer acquisition.
++ Applied independent models and tools to test the data transformation logic against the legacy systm to verify
 results of the analytical system.
-4. Resolved business issues by visualizing data in Tableau after performing **ETL operations in SQL Server**.
++ Resolved business issues by visualizing data in Tableau after performing **ETL operations in SQL Server**.
 
 #### Fordham University (May 2020 - Oct 2020)  
-##### **Research Assistant**  
+##### *Research Assistant*  
 ##### **Job Description**  
-1. Collected data from Statistic Netherlands and performed data ETL and **predictive analysis** using SQL.
-2. Performed **linear regression model** to analyze the relationship between job search periods and welfare system.
-3. Developed an machine learning method which allows validation data to select its most proper training set.
++ Collected data from Statistic Netherlands and performed data ETL and **predictive analysis** using SQL.
++ Performed **linear regression model** to analyze the relationship between job search periods and welfare system.
++ Developed an machine learning method which allows validation data to select its most proper training set.
 
 #### AXA Advisors (Dec 2019 - Mar 2020)  
-##### **Financial Analyst Intern**  
+##### *Financial Analyst Intern* 
 ##### **Job Description**  
-1. Conducted visualized impact of interest rate scenarios and changes to portfolio assumptions
-2. Performed data ETL and predictive analysis using SQL queries and Excel based pivot tables
-3. Presented investment and financial planning seminars to clients and prospective clients
++ Conducted visualized impact of interest rate scenarios and changes to portfolio assumptions
++ Performed data ETL and predictive analysis using SQL queries and Excel based pivot tables
++ Presented investment and financial planning seminars to clients and prospective clients
 
 
 
