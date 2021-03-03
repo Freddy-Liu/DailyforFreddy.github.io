@@ -1,1 +1,1 @@
-# DailyforFreddy.github.io
+# Personal Resume on Github
